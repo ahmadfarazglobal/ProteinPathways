@@ -1,0 +1,4 @@
+Protein: Example_Protein
+Docking Score: -7.5 kcal/mol
+Ramachandran Plot: favorable
+Notes: Initial test run successful.
