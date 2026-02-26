@@ -19,3 +19,13 @@ Python • NCBI • UniProt • PDB • Clustal Omega • SWISS-MODEL • PROCHE
 
 ## Author
 Ahmad Faraz | M.Phil. Botany | Bioinformatics & Protein Modeling Researcher
+
+## Folder Links
+
+- [data](data/) → raw sequences, FASTA files  
+- [scripts](scripts/) → Python scripts for analysis  
+- [notebooks](notebooks/) → Jupyter notebooks documenting experiments  
+- [results](results/) → docking scores, Ramachandran, ERRAT, alignments  
+- [models](models/) → 3D protein structures and screenshots  
+- [experimental](experimental/) → mushroom growth experimental images  
+- [docs](docs/) → thesis PDFs and figures
