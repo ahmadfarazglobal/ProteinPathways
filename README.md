@@ -1,31 +1,43 @@
 # ProteinPathways
 
-🧬 Bioinformatics & Protein Modeling Repository  
+🧬 **Bioinformatics & Protein Modeling Repository**  
 🔬 Molecular Docking | Python Workflows | Reproducible Science
 
+---
+
 ## Objective
-This repository provides reproducible pipelines for protein structure analysis, molecular docking, and bioinformatics workflows. It contains scripts, datasets, 3D models, validation outputs, and notebooks to support high-impact research. 
+This repository provides reproducible pipelines for protein structure analysis, molecular docking, and bioinformatics workflows. It contains scripts, datasets, 3D models, validation outputs, and notebooks to support high-impact research.
+
+---
 
 ## Project Structure
-data/       → raw sequences, FASTA files  
-scripts/    → Python scripts for analysis and automation  
-notebooks/  → Jupyter notebooks documenting experiments  
-results/    → docking scores, Ramachandran plots, validation outputs  
-models/     → predicted protein structures, 3D models  
-docs/       → thesis PDFs, figures, diagrams
+
+- **data/** → Raw sequences, FASTA files  
+- **scripts/** → Python scripts for analysis and automation  
+- **notebooks/** → Jupyter notebooks documenting experiments  
+- **results/** → Docking scores, Ramachandran plots, validation outputs, sequence alignments  
+- **models/** → Predicted protein structures and 3D models  
+- **docs/** → Thesis PDFs and figures  
+  - [Abstract](docs/Abstract.pdf)  
+  - [Introduction](docs/Introduction.pdf)  
+  - [Materials and Methods](docs/Materials%20and%20Methods.pdf)  
+  - [Results](docs/Results.pdf)  
+  - [Discussion](docs/Discussion.pdf)  
+  - [Conclusion](docs/Conclusion.pdf)  
+  - [References](docs/References.pdf)  
+  - **Figures folder:** [docs/figures/](docs/figures/)  
+
+---
 
 ## Tools & Platforms
 Python • NCBI • UniProt • PDB • Clustal Omega • SWISS-MODEL • PROCHECK • PyMOL • PyRx
 
+---
+
 ## Author
-Ahmad Faraz | M.Phil. Botany | Bioinformatics & Protein Modeling Researcher
+**Ahmad Faraz** | M.Phil. Botany | Bioinformatics & Protein Modeling Researcher  
 
-## Folder Links
+---
 
-- [data](data/) → raw sequences, FASTA files  
-- [scripts](scripts/) → Python scripts for analysis  
-- [notebooks](notebooks/) → Jupyter notebooks documenting experiments  
-- [results](results/) → docking scores, Ramachandran, ERRAT, alignments  
-- [models](models/) → 3D protein structures and screenshots  
-- [experimental](experimental/) → mushroom growth experimental images  
-- [docs](docs/) → thesis PDFs and figures
+## License
+MIT License © 2026 Ahmad Faraz
