@@ -4,9 +4,7 @@
 🔬 Molecular Docking | Python Workflows | Reproducible Science
 
 ## Objective
-This repository provides reproducible pipelines for protein structure analysis, molecular docking, and bioinformatics workflows. It contains scripts, datasets, 3D models, validation outputs, and notebooks to support high-impact research. <br> ## Preview
-
-![Protein Structure](models/protein_structure.png)
+This repository provides reproducible pipelines for protein structure analysis, molecular docking, and bioinformatics workflows. It contains scripts, datasets, 3D models, validation outputs, and notebooks to support high-impact research. 
 
 ## Project Structure
 data/       → raw sequences, FASTA files  
